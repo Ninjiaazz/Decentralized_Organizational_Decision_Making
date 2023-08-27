@@ -1,4 +1,4 @@
-# Decentralized_Organizational_Decision_Making
+# Decentralized Organizational Decision Making
 
 适用对象：互联网上的小型组织
 
