@@ -1,4 +1,4 @@
-# 一种基于PGP密钥的多人联合验证的方案
+# Decentralized_Organizational_Decision_Making
 
 适用对象：互联网上的小型组织
 
