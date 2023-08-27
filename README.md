@@ -1,3 +1,7 @@
-# A Scheme of Multiple People's Joint Approval Verification Using PGP Key
-Advantages: extremely easy to understand, high security
-Disadvantage: It is more cumbersome to use, just a set of ideas
+# 一种基于PGP密钥的多人联合验证的方案
+适用对象：互联网上的小型组织
+用途：用于代表一个集体发布高可信度的内容
+优点：去中心化，极其容易理解，安全性非常高
+缺点：使用繁琐，属于土方法
+
+如果有类似的实现方法请提，谢谢支持
