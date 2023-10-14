@@ -1,0 +1,9 @@
+标准合约 0.1 https://github.com/Ninjiaazz/Decentralized_Organizational_Decision_Making
+1 合约于格林威治时间 TIME 实行。
+2 本合约经过了 MEMBER 成员的签署，所有符合此合约的决策均视为 ORGANIZATION 组织集体的决策。
+3.1 决策的通过必须经过过半成员的批准。批准的成员需要对决策的文本通过签名此合约的PGP私钥进行签名才能视为对此决策的批准。
+3.3 决策文件需要包含可以批准的具体开始日期与截止批准日期，否则无效。
+4.1 所有合约中的大写字母都需在同名的 txt 格式的文件，对应名字的文件替换合约中对应大写英文字母的内容，使合约有效。
+4.3 TIME.txt 文件中包含在格林威治时间标准下的具体时间，精确至年月日。MEMEBER.txt 文件需包含所有批准成员的PGP公钥。ORGANIZATION .txt 文件中包含此组织的详细内容，明确组织主体。
+4.4 上述创建的文件包括本合约文件 standard-contract.txt 需存放在一个独立的文件夹中，文件夹中只能有这四个文件，文件夹命名为 charter ，对此文件夹进行压缩。
+4.5 所有成员使用在 MEMBER 文件中登记的自己的PGP公钥对文件 charter 进行签名，签名后的 OpenPGP signature  需统一存放至文件夹 OpenPGP-signature 中。
